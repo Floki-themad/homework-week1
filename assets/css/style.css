@@ -95,12 +95,12 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-this code is duplicated. 
+                                        This code is duplicated.
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 } */
-/* moved these h3 tags below the h2 tags. 
+/*                                       moved these h3 tags below the h2 tags
 .benefit-lead h3 .benefit-cost . {
     margin-bottom: 10px;
     text-align: center;
@@ -126,7 +126,7 @@ article img{
     margin: 10px auto;
     max-width: 150px;
 } */
-/*
+/*                           was able to call out by a  element specific path instead of a class.  
 .benefit-brand img {
     display: block;
     margin: 10px auto;
